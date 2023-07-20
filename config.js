@@ -49,9 +49,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 Queen Hentai 💝 Created By 💝 🇦‌🇿‌🇦‌🇳‌_🇦‌🇿‌🇭‌🇦‌🇷 Official²⁰²³ 💝' 
 global.author = '💝 🇦‌🇿‌🇦‌🇳‌_🇦‌🇿‌🇭‌🇦‌🇷‌ Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
+global.igfg = '▢ Follow on Instagram\nPlease Follow me then you use my bot  🥺 https://instagram.com/cadet_azan?igshid=MzRlODBiNWFlZA==/🇦‌🇿‌🇦‌🇳 Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
@@ -59,7 +59,7 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 💝 🇦‌🇿‌🇦‌🇳‌_🇦‌🇿‌🇭‌🇦‌🇷 💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
